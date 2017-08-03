@@ -1,11 +1,6 @@
 # spring
 
-
-itellij spring/example/springboottest
-java -> Make Directory as sources Root
+工程打开方式
+itellij 打开到目录 spring/example/springboottest
 
 
-
- Cannot start compilation: the output path is not specified for module "module"
- 
- File ->Project Structure ->Project Settings -> Project ->  Project compiler output  
